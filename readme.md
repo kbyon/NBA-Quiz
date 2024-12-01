@@ -73,10 +73,7 @@ python client.py
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-Distributed under the MIT License.
 
 ## Contact
 Your Name - youremail@example.com
 
-Project Link: [https://github.com/yourusername/nba-quiz-socket-app](https://github.com/yourusername/nba-quiz-socket-app)
